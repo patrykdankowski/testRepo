@@ -22,6 +22,10 @@ public class DemoApplication {
 
 
         System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
 
     }
 
